@@ -6,7 +6,7 @@ Column names are standardized to lowercase snake_case during data preparation.
 
 ---
 
-## Source Tables
+## Source Tables 
 
 ### `patients.csv`
 
